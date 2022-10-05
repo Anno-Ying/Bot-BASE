@@ -37,6 +37,7 @@
 
 
  Credits: [ㅤ■■■■■100%ㅤ](https://github.com/Anno-Ying) 
+ Discord: [ㅤㅤㅤㅤㅤㅤㅤ](https://sourceb.in/XnGUqAO56T)
 
 
 
