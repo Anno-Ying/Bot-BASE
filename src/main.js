@@ -6,11 +6,6 @@
  * 
  */
 
-const config = require('./config/settings.json');
-const main = 'Main.js';
-const LoadCommands = require('./commands')
-const LoadEvents = require('./events')
-
 require('dotenv').config()
 
 const { Collection, Client, GatewayIntentBits } = require('discord.js')
