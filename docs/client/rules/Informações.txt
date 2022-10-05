@@ -1,0 +1,23 @@
+1- ***("Caso for mudar nomes de pastas lembre-se de importar!")***
+
+2- ***("Caso ocorra algum bug, digite no repositorio do meu github: https://github.com/Anno-Ying***)
+
+3- (Olá, Mundo!)
+
+4- Caso queira deixar os creditos agradeço.
+
+
+Versões deprecated/descontinuadas ou antigas serão removidas desse projeto.
+
+console.log('
+
+ ╰╮╰╮╰╮
+╭━━━━━━━╮╱ 
+╰━━━━━━━╯╱ 
+┃╭╭╮┏┏┏┏┣━╮
+┃┃┃┃┣┣┣┣┃╱┃ 
+┃╰╰╯┃┃┗┗┣━╯ 
+╰━━━━━━━╯ 
+
+
+            ')
