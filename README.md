@@ -8,7 +8,7 @@
 
 #
 
- ## ℹ Lembre-se de instalar as [depêndencias](https://github.com/Anno-Ying/Bot-BASE/tree/master/,docs/client/modules).
+ ## ℹ Lembre-se de instalar as [depêndencias](https://github.com/Anno-Ying/Bot-BASE/tree/master/docs/client/modules).
 <br/>
 
 
