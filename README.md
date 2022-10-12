@@ -8,11 +8,17 @@
 
 #
 
- ## ℹ Lembre-se de instalar as [depêndencias](https://github.com/Anno-Ying/Bot-BASE/tree/master/docs/client/modules).
+
 <br/>
 
+> **Note:**<br>
+> **Lembre-se de instalar as [depêndencias](https://github.com/Anno-Ying/Bot-BASE/tree/master/docs/client/modules).**
+<br>
 
- ## ⚠ Não pegue este projeto para postar! Caso aconteça sera tomada devidas providecências.
+> **Warning:**<br>
+> **Não pegue este projeto para postar! Caso aconteça sera tomada devidas providecências.**
+
+
 #
 
  ## 📚 Recomendo:
